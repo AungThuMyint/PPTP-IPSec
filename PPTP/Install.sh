@@ -32,6 +32,7 @@ iptables -I FORWARD -s 192.168.2.0/24 -p tcp -m tcp --tcp-flags FIN,SYN,RST,ACK 
 END
 sh /etc/rc.local
 
+clear
 echo ""
 echo " +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ "
 echo " | PPTP VPN Setup Script By Aung Thu Myint | "
