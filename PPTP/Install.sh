@@ -101,7 +101,7 @@ echo   " If You Want To Add New User & Del User"
 echo ""
 echo   " Go To This Directory /etc/ppp/chap-secrets"
 echo ""
-echo   "+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+"
+echo   " +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+"
 echo ""
 sleep 3
 
