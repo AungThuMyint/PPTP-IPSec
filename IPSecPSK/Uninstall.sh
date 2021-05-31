@@ -21,4 +21,5 @@ rm -rf /etc/sysconfig/pluto
 rm -rf /etc/default/pluto
 rm -rf /etc/ipsec.d
 rm -rf /etc/xl2tpd
+apt-get purge xl2tpd
 echo "[+] Uninstall Completed [+]"
