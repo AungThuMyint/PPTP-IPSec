@@ -17,7 +17,7 @@ crontab $TMPFILE > /dev/null
 rm $TMPFILE
 
 echo "[+] Restoring Sysctl [+]"
-wget http://web/Config/sysctl.conf
+wget https://raw.githubusercontent.com/AungThuMyint/PPTP-IPSec/main/PPTP/Config/sysctl.conf
 echo "[+] Continue To Type : Yes [+]"
 cp -i sysctl.conf /etc/sysctl.conf
 rm -rf sysctl.conf
